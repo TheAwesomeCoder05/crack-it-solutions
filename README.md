@@ -1,5 +1,5 @@
 # Crack it! - Integers Solutions
-This is where you can find explanations for all the answers of [Crack it! - Integers](https://theawesomecoder05.github.io). If you are not able to solve, you are at the right place! 
+This is where you can find explanations for all the answers of [Crack it! - Integers](https://theawesomecoder05.github.io). This is not the website. You can view the website at [TheAwesomeCoder05.github.io/crack-it-solutions](TheAwesomeCoder05.github.io/crack-it-solutions)If you are not able to solve, you are at the right place! 
 <!--To insert a hyperlink in MARKDOWN, put the word that you want to be in the place of the hyperlink in square brackets[] and the link it should go to in parenthesis()-->
 ## John went for shopping.
 Q: John went for shopping with ₹500 and bought the following:
